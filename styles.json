@@ -1,0 +1,390 @@
+[ {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "H sapiens (1)",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "text-opacity" : 1.0,
+      "font-size" : 12,
+      "background-color" : "rgb(159,159,159)",
+      "border-opacity" : 1.0,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "text-valign" : "bottom",
+      "text-halign" : "center",
+      "color" : "rgb(0,0,0)",
+      "height" : 50.0,
+      "width" : 50.0,
+      "border-width" : 2.0,
+      "shape" : "ellipse",
+      "content" : "data(gene_name)"
+    }
+  }, {
+    "selector" : "node[node_type = 'result']",
+    "css" : {
+      "background-color" : "rgb(159,159,159)"
+    }
+  }, {
+    "selector" : "node[node_type = 'query']",
+    "css" : {
+      "background-color" : "rgb(0,0,0)"
+    }
+  }, {
+    "selector" : "node[node_type = 'attribute']",
+    "css" : {
+      "background-color" : "rgb(159,159,159)"
+    }
+  }, {
+    "selector" : "node[node_type = 'attribute']",
+    "css" : {
+      "shape" : "diamond"
+    }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "width" : 1.0,
+      "content" : "",
+      "source-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-color" : "rgb(0,0,0)",
+      "line-style" : "solid",
+      "text-opacity" : 1.0,
+      "source-arrow-shape" : "none",
+      "opacity" : 1.0,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "target-arrow-shape" : "none",
+      "font-size" : 10,
+      "line-color" : "rgb(64,64,64)",
+      "color" : "rgb(0,0,0)"
+    }
+  }, {
+    "selector" : "edge[normalized_max_weight > 0.00453519]",
+    "css" : {
+      "width" : 6.0
+    }
+  }, {
+    "selector" : "edge[normalized_max_weight = 0.00453519]",
+    "css" : {
+      "width" : 6.0
+    }
+  }, {
+    "selector" : "edge[normalized_max_weight > 0.00000978][normalized_max_weight < 0.00453519]",
+    "css" : {
+      "width" : "mapData(normalized_max_weight,0.00000978,0.00453519,1.0,6.0)"
+    }
+  }, {
+    "selector" : "edge[normalized_max_weight = 0.00000978]",
+    "css" : {
+      "width" : 1.0
+    }
+  }, {
+    "selector" : "edge[normalized_max_weight < 0.00000978]",
+    "css" : {
+      "width" : 1.0
+    }
+  }, {
+    "selector" : "edge[data_type = 'Predicted']",
+    "css" : {
+      "line-color" : "rgb(246,195,132)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Co-localization']",
+    "css" : {
+      "line-color" : "rgb(160,179,220)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Shared protein domains']",
+    "css" : {
+      "line-color" : "rgb(218,212,162)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Pathway']",
+    "css" : {
+      "line-color" : "rgb(155,216,222)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Co-expression']",
+    "css" : {
+      "line-color" : "rgb(208,183,213)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Physical Interactions']",
+    "css" : {
+      "line-color" : "rgb(234,162,162)"
+    }
+  }, {
+    "selector" : "edge[data_type = 'Genetic Interactions']",
+    "css" : {
+      "line-color" : "rgb(144,225,144)"
+    }
+  }, {
+    "selector" : "edge[ id = '111' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '112' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '113' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '114' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '115' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '116' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '117' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '118' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '119' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '120' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '121' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '122' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '123' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '124' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '125' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '126' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '127' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '128' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '129' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '130' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '131' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '132' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '133' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '134' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '135' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '136' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '137' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '138' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '139' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '140' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '141' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '142' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '143' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '144' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '145' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '146' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '147' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '148' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '149' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '150' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '151' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '152' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '153' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '154' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '155' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '156' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '157' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '158' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '159' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '160' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '161' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '162' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '163' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '164' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '165' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '166' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '167' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '168' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '84' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '85' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '86' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '87' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '88' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '89' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '90' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '91' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '92' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '93' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '94' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '95' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '96' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '97' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '98' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '99' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '100' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '101' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '102' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '103' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '104' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '105' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '106' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '107' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '108' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '109' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge[ id = '110' ]",
+    "css" : { }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+} ]

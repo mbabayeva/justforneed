@@ -1,0 +1,1934 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "source_networks" : "[{\"group\":\"Physical Interactions\",\"name\":\"Agrawal-Sedivy-2010\",\"weight\":0.0050326431774734715},{\"group\":\"Physical Interactions\",\"name\":\"Behrends-Harper-2010\",\"weight\":8.842561969920831E-4},{\"group\":\"Physical Interactions\",\"name\":\"Yu-Vidal-2011\",\"weight\":7.090785059739783E-5},{\"group\":\"Physical Interactions\",\"name\":\"Vinayagam-Wanker-2011\",\"weight\":6.440754117491955E-4},{\"group\":\"Physical Interactions\",\"name\":\"Arbuckle-Grant-2010\",\"weight\":4.595662690972451E-4},{\"group\":\"Genetic Interactions\",\"name\":\"Vizeacoumar-Moffat-2013\",\"weight\":0.004134990122682379},{\"group\":\"Co-localization\",\"name\":\"Chen-Huang-2014\",\"weight\":0.008219785481855266},{\"group\":\"Physical Interactions\",\"name\":\"Persaud-Rotin-2009\",\"weight\":0.00377773420537651},{\"group\":\"Co-localization\",\"name\":\"Schadt-Shoemaker-2004\",\"weight\":0.01653878799718258},{\"group\":\"Physical Interactions\",\"name\":\"Floyd-Pagliarini-2016\",\"weight\":0.0011949418213018218},{\"group\":\"Physical Interactions\",\"name\":\"Bogachek-Weigel-2014\",\"weight\":2.180555633038864E-4},{\"group\":\"Physical Interactions\",\"name\":\"Behzadnia-Lührmann-2007\",\"weight\":0.015455971390270048},{\"group\":\"Physical Interactions\",\"name\":\"Arroyo-Aloy-2014\",\"weight\":0.004361662013118989},{\"group\":\"Physical Interactions\",\"name\":\"Kristensen-Foster-2012\",\"weight\":0.0051053806075038715},{\"group\":\"Physical Interactions\",\"name\":\"van Wijk-Timmers-2009\",\"weight\":0.0011228127107211407},{\"group\":\"Physical Interactions\",\"name\":\"Oláh-Ovádi-2011\",\"weight\":0.0010206876263561145},{\"group\":\"Physical Interactions\",\"name\":\"Napolitano-Meroni-2011\",\"weight\":0.0016539843897060709},{\"group\":\"Physical Interactions\",\"name\":\"Neganova-Lako-2011\",\"weight\":0.012840700360765527},{\"group\":\"Predicted\",\"name\":\"I2D-MINT-Mouse2Human\",\"weight\":0.0015220687652061165},{\"group\":\"Physical Interactions\",\"name\":\"IREF-HPRD\",\"weight\":1.566092914895799E-4},{\"group\":\"Physical Interactions\",\"name\":\"Hein-Mann-2015\",\"weight\":0.003070565273887307},{\"group\":\"Physical Interactions\",\"name\":\"Leng-Wang-2014\",\"weight\":2.714993391639075E-4},{\"group\":\"Physical Interactions\",\"name\":\"Ingham-Pawson-2005\",\"weight\":0.001354487645966764},{\"group\":\"Co-expression\",\"name\":\"Smirnov-Cheung-2009\",\"weight\":0.0058458418473445765},{\"group\":\"Predicted\",\"name\":\"I2D-Formstecher-Daviet-2005-Embryo-Fly2Human\",\"weight\":7.465361272031168E-4},{\"group\":\"Physical Interactions\",\"name\":\"Tong-Moran-2014\",\"weight\":0.0023179694595114398},{\"group\":\"Co-expression\",\"name\":\"Alizadeh-Staudt-2000\",\"weight\":0.006937339967237062},{\"group\":\"Physical Interactions\",\"name\":\"Wilker-Yaffe-2007\",\"weight\":0.0024829912016666603},{\"group\":\"Physical Interactions\",\"name\":\"IREF-BIND\",\"weight\":0.002359159497726328},{\"group\":\"Pathway\",\"name\":\"IMID\",\"weight\":0.004139011656605637},{\"group\":\"Physical Interactions\",\"name\":\"Lee-Songyang-2011\",\"weight\":0.001105963415077188},{\"group\":\"Co-localization\",\"name\":\"Johnson-Shoemaker-2003\",\"weight\":0.011062923829369254},{\"group\":\"Physical Interactions\",\"name\":\"Guarani-Harper-2014\",\"weight\":0.00834295119083143},{\"group\":\"Physical Interactions\",\"name\":\"Couzens-Gingras-2013\",\"weight\":7.832318641957945E-4},{\"group\":\"Physical Interactions\",\"name\":\"Arroyo-Aloy-2015\",\"weight\":1.5667439626066747E-4},{\"group\":\"Predicted\",\"name\":\"I2D-Krogan-Greenblatt-2006-NonCore-Yeast2Human\",\"weight\":8.867813483465638E-4},{\"group\":\"Physical Interactions\",\"name\":\"Cox-Rizzino-2013\",\"weight\":0.003979905777519367},{\"group\":\"Genetic Interactions\",\"name\":\"Blomen-Brummelkamp-2015\",\"weight\":8.466437295810057E-4},{\"group\":\"Physical Interactions\",\"name\":\"Brajenovic-Drewes-2004\",\"weight\":9.298552341857493E-4},{\"group\":\"Physical Interactions\",\"name\":\"Malovannaya-Qin-2010\",\"weight\":0.001874413821316489},{\"group\":\"Physical Interactions\",\"name\":\"Tsai-Cristea-2012\",\"weight\":0.0012680980938011008},{\"group\":\"Physical Interactions\",\"name\":\"Virok-Fülöp-2011\",\"weight\":1.5012590785818097E-4},{\"group\":\"Physical Interactions\",\"name\":\"Fogeron-Lange-2013\",\"weight\":0.006054223368769988},{\"group\":\"Physical Interactions\",\"name\":\"Low-Heck-2014\",\"weight\":4.298634334144277E-4},{\"group\":\"Physical Interactions\",\"name\":\"Ewing-Figeys-2007\",\"weight\":9.532132692430213E-4},{\"group\":\"Co-expression\",\"name\":\"Roth-Zlotnik-2006\",\"weight\":0.006103920048322323},{\"group\":\"Physical Interactions\",\"name\":\"Roux-Burke-2012\",\"weight\":0.0034718468888037465},{\"group\":\"Predicted\",\"name\":\"I2D-BioGRID-Worm2Human\",\"weight\":0.0018495006609281965},{\"group\":\"Co-expression\",\"name\":\"Innocenti-Brown-2011\",\"weight\":0.0068802724341400934},{\"group\":\"Physical Interactions\",\"name\":\"Povlsen-Choudhary-2012\",\"weight\":0.0010335219721216904},{\"group\":\"Co-expression\",\"name\":\"Dobbin-Giordano-2005\",\"weight\":0.00782952136890859},{\"group\":\"Physical Interactions\",\"name\":\"Wang-Xu-2015\",\"weight\":0.0029383581982460136},{\"group\":\"Physical Interactions\",\"name\":\"Grossmann-Stelzl-2015\",\"weight\":0.0010910773516609332},{\"group\":\"Co-expression\",\"name\":\"Perou-Botstein-2000\",\"weight\":0.005929652006606594},{\"group\":\"Co-expression\",\"name\":\"Boldrick-Relman-2002\",\"weight\":0.005967177521387211},{\"group\":\"Physical Interactions\",\"name\":\"Sowa-Harper-2009\",\"weight\":0.0026449856509389797},{\"group\":\"Physical Interactions\",\"name\":\"Giannone-Liu-2010\",\"weight\":0.003927829265336128},{\"group\":\"Physical Interactions\",\"name\":\"Jeronimo-Coulombe-2007\",\"weight\":0.006538382376830141},{\"group\":\"Physical Interactions\",\"name\":\"Lau-Ronai-2012\",\"weight\":4.2583281742712876E-4},{\"group\":\"Physical Interactions\",\"name\":\"Phillips-Corn-2013\",\"weight\":0.01879324012594319},{\"group\":\"Physical Interactions\",\"name\":\"Liu-Wang-2012\",\"weight\":0.0010570659129687753},{\"group\":\"Physical Interactions\",\"name\":\"Kim-Major-2015\",\"weight\":1.6828397463917195E-6},{\"group\":\"Physical Interactions\",\"name\":\"McFarland-Nussbaum-2008\",\"weight\":0.00867478015696858},{\"group\":\"Physical Interactions\",\"name\":\"Hill-Livingston-2014\",\"weight\":0.008285149882160413},{\"group\":\"Pathway\",\"name\":\"Wu-Stein-2010\",\"weight\":0.01539064338392716},{\"group\":\"Predicted\",\"name\":\"I2D-MINT-Worm2Human\",\"weight\":1.5916657126608436E-5},{\"group\":\"Physical Interactions\",\"name\":\"Albers-Koegl-2005\",\"weight\":7.309965480940261E-4},{\"group\":\"Physical Interactions\",\"name\":\"Pichlmair-Superti-Furga-2012\",\"weight\":1.5507422414769392E-4},{\"group\":\"Co-expression\",\"name\":\"Mallon-McKay-2013\",\"weight\":0.008581145430731955},{\"group\":\"Predicted\",\"name\":\"I2D-BIND-Yeast2Human\",\"weight\":0.0011057473126487541},{\"group\":\"Physical Interactions\",\"name\":\"Barr-Knapp-2009\",\"weight\":0.004258002381703899},{\"group\":\"Physical Interactions\",\"name\":\"Li-Dorf-2014\",\"weight\":6.294435358691E-4},{\"group\":\"Physical Interactions\",\"name\":\"Soler-López-Aloy-2011\",\"weight\":8.764162732900933E-5},{\"group\":\"Physical Interactions\",\"name\":\"Li-Dorf-2011 A\",\"weight\":0.0038726272701965843},{\"group\":\"Physical Interactions\",\"name\":\"Murakawa-Landthaler-2015\",\"weight\":0.010291245697376938},{\"group\":\"Predicted\",\"name\":\"I2D-vonMering-Bork-2002-Low-Yeast2Human\",\"weight\":0.003778722239996326},{\"group\":\"Physical Interactions\",\"name\":\"IREF-MPPI\",\"weight\":0.0022701446732091863},{\"group\":\"Co-expression\",\"name\":\"Burington-Shaughnessy-2008\",\"weight\":0.008029963611243958},{\"group\":\"Physical Interactions\",\"name\":\"Bandyopadhyay-Ideker-2010\",\"weight\":0.0011749160876864274},{\"group\":\"Predicted\",\"name\":\"I2D-INNATEDB-Mouse2Human\",\"weight\":0.004236191463343592},{\"group\":\"Co-expression\",\"name\":\"Bahr-Bowler-2013\",\"weight\":0.0069541600614013875},{\"group\":\"Physical Interactions\",\"name\":\"Hanson-Clayton-2014\",\"weight\":2.1468000403917863E-4},{\"group\":\"Physical Interactions\",\"name\":\"Matsumoto-Nakayama-2005\",\"weight\":0.05541853628869687},{\"group\":\"Physical Interactions\",\"name\":\"Udeshi-Carr-2012\",\"weight\":0.005180265056653372},{\"group\":\"Physical Interactions\",\"name\":\"Bruderer-Hay-2011\",\"weight\":7.997382968941391E-4},{\"group\":\"Physical Interactions\",\"name\":\"Diner-Cristea-2015\",\"weight\":0.0031893419557582044},{\"group\":\"Physical Interactions\",\"name\":\"Xie-Cong-2013\",\"weight\":0.0019171092665551611},{\"group\":\"Physical Interactions\",\"name\":\"Gupta-Pelletier-2015\",\"weight\":6.629866057417615E-4},{\"group\":\"Physical Interactions\",\"name\":\"Roy-Pardo-2014\",\"weight\":0.0029121099126889695},{\"group\":\"Physical Interactions\",\"name\":\"Bantscheff-Drewes-2011\",\"weight\":4.504003203793062E-4},{\"group\":\"Physical Interactions\",\"name\":\"Bennett-Harper-2010\",\"weight\":7.63294689761052E-4},{\"group\":\"Predicted\",\"name\":\"I2D-Chen-Pawson-2009-PiwiScreen-Mouse2Human\",\"weight\":0.004588818015805672},{\"group\":\"Physical Interactions\",\"name\":\"Taipale-Lindquist-2012\",\"weight\":0.002572655819705155},{\"group\":\"Predicted\",\"name\":\"I2D-Tarassov-PCA-Yeast2Human\",\"weight\":0.003976644400663622},{\"group\":\"Genetic Interactions\",\"name\":\"Toyoshima-Grandori-2012\",\"weight\":0.002782253869404026},{\"group\":\"Pathway\",\"name\":\"HUMANCYC\",\"weight\":3.061572350763558E-4},{\"group\":\"Physical Interactions\",\"name\":\"Weinmann-Meister-2009\",\"weight\":0.005423236769177586},{\"group\":\"Physical Interactions\",\"name\":\"Barrios-Rodiles-Wrana-2005\",\"weight\":0.0027307740513659124},{\"group\":\"Physical Interactions\",\"name\":\"BIOGRID-SMALL-SCALE-STUDIES\",\"weight\":0.0026832115783430844},{\"group\":\"Co-expression\",\"name\":\"Rieger-Chu-2004\",\"weight\":0.006603053591613953},{\"group\":\"Co-expression\",\"name\":\"Wang-Maris-2006\",\"weight\":0.009496038535780996},{\"group\":\"Physical Interactions\",\"name\":\"Emdal-Olsen-2015\",\"weight\":0.004082404965428495},{\"group\":\"Physical Interactions\",\"name\":\"IREF-DIP\",\"weight\":0.0038836000796723265},{\"group\":\"Predicted\",\"name\":\"I2D-BIND-Rat2Human\",\"weight\":0.0018649935592211452},{\"group\":\"Physical Interactions\",\"name\":\"Yang-Chen-2010\",\"weight\":1.813860528896765E-4},{\"group\":\"Physical Interactions\",\"name\":\"Maréchal-Zou-2014\",\"weight\":0.014103698012481312},{\"group\":\"Physical Interactions\",\"name\":\"Oshikawa-Nakayama-2012\",\"weight\":0.0026091908197753075},{\"group\":\"Physical Interactions\",\"name\":\"Yu-Chow-2013\",\"weight\":0.0058613341469599956},{\"group\":\"Co-expression\",\"name\":\"Bild-Nevins-2006 B\",\"weight\":0.008484308653476654},{\"group\":\"Physical Interactions\",\"name\":\"Freibaum-Taylor-2010\",\"weight\":0.005950380776530317},{\"group\":\"Physical Interactions\",\"name\":\"Leung-Jones-2014\",\"weight\":0.014328020041274394},{\"group\":\"Physical Interactions\",\"name\":\"Grant-2010\",\"weight\":1.2247283315362144E-4},{\"group\":\"Co-localization\",\"name\":\"Zhang-Shang-2006\",\"weight\":0.025843170195525067},{\"group\":\"Physical Interactions\",\"name\":\"IREF-PUBMED\",\"weight\":0.0016396379983291826},{\"group\":\"Co-expression\",\"name\":\"Wu-Garvey-2007\",\"weight\":0.0048145650407204225},{\"group\":\"Physical Interactions\",\"name\":\"Kırlı-Görlich-2015\",\"weight\":4.0296685830458224E-4},{\"group\":\"Physical Interactions\",\"name\":\"IREF-INTACT\",\"weight\":0.0011177848443237077},{\"group\":\"Physical Interactions\",\"name\":\"So-Colwill-2015\",\"weight\":0.0015414410436793387},{\"group\":\"Genetic Interactions\",\"name\":\"Willingham-Muchowski-2003\",\"weight\":2.2639330770885895E-5},{\"group\":\"Genetic Interactions\",\"name\":\"BIOGRID-SMALL-SCALE-STUDIES\",\"weight\":0.0038262435279733053},{\"group\":\"Physical Interactions\",\"name\":\"Bonacci-Soubeyran-2014\",\"weight\":0.002600490520109372},{\"group\":\"Predicted\",\"name\":\"I2D-Yu-Vidal-2008-GoldStd-Yeast2Human\",\"weight\":0.0021534500456056654},{\"group\":\"Physical Interactions\",\"name\":\"Chen-Zhang-2013\",\"weight\":0.0017975145585370504},{\"group\":\"Physical Interactions\",\"name\":\"Wong-O'Bryan-2012\",\"weight\":7.44272836517014E-6},{\"group\":\"Physical Interactions\",\"name\":\"Thalappilly-Dusetti-2008\",\"weight\":6.871084396213112E-4},{\"group\":\"Physical Interactions\",\"name\":\"Petschnigg-Stagljar-2014\",\"weight\":0.03903703951848343},{\"group\":\"Physical Interactions\",\"name\":\"Kim-Gygi-2011\",\"weight\":0.0025998133220625393},{\"group\":\"Physical Interactions\",\"name\":\"Nicholson-Hupp-2014\",\"weight\":0.009873628039357615},{\"group\":\"Physical Interactions\",\"name\":\"Huttlin-Gygi-2015\",\"weight\":0.0013859800744371626},{\"group\":\"Shared protein domains\",\"name\":\"INTERPRO\",\"weight\":0.003826669631045472},{\"group\":\"Predicted\",\"name\":\"I2D-vonMering-Bork-2002-Medium-Yeast2Human\",\"weight\":0.005871613899897969},{\"group\":\"Physical Interactions\",\"name\":\"Reyniers-Taymans-2014\",\"weight\":8.2971703833928E-4},{\"group\":\"Predicted\",\"name\":\"I2D-Krogan-Greenblatt-2006-Core-Yeast2Human\",\"weight\":0.0019147245142254103},{\"group\":\"Predicted\",\"name\":\"Wu-Stein-2010\",\"weight\":0.003408065313748731},{\"group\":\"Physical Interactions\",\"name\":\"Woodsmith-Sanderson-2012\",\"weight\":3.545930096897166E-4},{\"group\":\"Pathway\",\"name\":\"CELL_MAP\",\"weight\":0.004556755077404688},{\"group\":\"Co-expression\",\"name\":\"Perou-Botstein-1999\",\"weight\":0.004989695649255339},{\"group\":\"Physical Interactions\",\"name\":\"Hutchins-Peters-2010\",\"weight\":0.002356702412486288},{\"group\":\"Physical Interactions\",\"name\":\"Jin-Pawson-2004\",\"weight\":0.0024144976771515447},{\"group\":\"Physical Interactions\",\"name\":\"Berggård-James-2006\",\"weight\":0.014008170464524688},{\"group\":\"Co-expression\",\"name\":\"Ramaswamy-Golub-2001\",\"weight\":0.010213562360242592},{\"group\":\"Predicted\",\"name\":\"I2D-BioGRID-Yeast2Human\",\"weight\":0.004987474139856928},{\"group\":\"Physical Interactions\",\"name\":\"Stes-Gevaert-2014\",\"weight\":0.007347765608404707},{\"group\":\"Physical Interactions\",\"name\":\"Ramachandran-LaBaer-2004\",\"weight\":0.002625269527057929},{\"group\":\"Physical Interactions\",\"name\":\"Ravasi-Hayashizaki-2010\",\"weight\":1.7730735419614719E-4},{\"group\":\"Physical Interactions\",\"name\":\"Greco-Cristea-2011\",\"weight\":8.944037320170158E-4},{\"group\":\"Physical Interactions\",\"name\":\"Havugimana-Emili-2012\",\"weight\":0.0038880379933831895},{\"group\":\"Physical Interactions\",\"name\":\"Zhao-Krug-2005\",\"weight\":0.0036240587253126995},{\"group\":\"Physical Interactions\",\"name\":\"Weimann-Stelzl-2013 A\",\"weight\":1.4357328680984617E-5},{\"group\":\"Physical Interactions\",\"name\":\"Perez-Hernandez-Yáñez-Mó-2013\",\"weight\":8.322694237276994E-4},{\"group\":\"Predicted\",\"name\":\"I2D-MINT-Rat2Human\",\"weight\":0.0016936797564419774},{\"group\":\"Physical Interactions\",\"name\":\"Zanon-Pichler-2013\",\"weight\":9.340155722819222E-4},{\"group\":\"Physical Interactions\",\"name\":\"Varjosalo-Gstaiger-2013\",\"weight\":0.001595071587840515},{\"group\":\"Predicted\",\"name\":\"I2D-MGI-Mouse2Human\",\"weight\":6.751785062136623E-4},{\"group\":\"Physical Interactions\",\"name\":\"Markson-Sanderson-2009\",\"weight\":2.0334525314195595E-4},{\"group\":\"Physical Interactions\",\"name\":\"Fenner-Prehn-2010\",\"weight\":0.0035525046460292815},{\"group\":\"Physical Interactions\",\"name\":\"Kotlyar-Jurisica-2015\",\"weight\":0.0027766960473071226},{\"group\":\"Genetic Interactions\",\"name\":\"IREF-SMALL-SCALE-STUDIES\",\"weight\":0.0023697786591772565},{\"group\":\"Physical Interactions\",\"name\":\"Loch-Strickler-2012\",\"weight\":0.0032710389249207454},{\"group\":\"Physical Interactions\",\"name\":\"Danielsen-Nielsen-2011\",\"weight\":0.006704866256310426},{\"group\":\"Physical Interactions\",\"name\":\"Mak-Moffat-2010\",\"weight\":0.011637179873574825},{\"group\":\"Physical Interactions\",\"name\":\"Ouyang-Gill-2009\",\"weight\":8.401094776708906E-4},{\"group\":\"Physical Interactions\",\"name\":\"Whisenant-Salomon-2015\",\"weight\":0.027010881496000165},{\"group\":\"Physical Interactions\",\"name\":\"Vermeulen-Mann-2010\",\"weight\":1.2429037486499852E-4},{\"group\":\"Predicted\",\"name\":\"Stuart-Kim-2003\",\"weight\":0.0026725319410866692},{\"group\":\"Pathway\",\"name\":\"REACTOME\",\"weight\":0.013295597275140488},{\"group\":\"Physical Interactions\",\"name\":\"Lipp-Guthrie-2015\",\"weight\":0.0030416076102496997},{\"group\":\"Predicted\",\"name\":\"I2D-vonMering-Bork-2002-High-Yeast2Human\",\"weight\":0.008901143250803462},{\"group\":\"Physical Interactions\",\"name\":\"Scholz-Taylor-2016\",\"weight\":0.0014480506563337894},{\"group\":\"Physical Interactions\",\"name\":\"Xu-Ye-2012\",\"weight\":0.006472564695949992},{\"group\":\"Physical Interactions\",\"name\":\"Foerster-Ritter-2013\",\"weight\":0.0037084805248326583},{\"group\":\"Physical Interactions\",\"name\":\"Wu-Li-2007\",\"weight\":8.889993189359289E-4},{\"group\":\"Physical Interactions\",\"name\":\"Llères-Lamond-2010\",\"weight\":0.009984497845164286},{\"group\":\"Physical Interactions\",\"name\":\"Zhou-Conrads-2004\",\"weight\":0.005929881084970649},{\"group\":\"Physical Interactions\",\"name\":\"Wan-Emili-2015\",\"weight\":0.003563037193120656},{\"group\":\"Predicted\",\"name\":\"I2D-BIND-Mouse2Human\",\"weight\":0.001442827152246569},{\"group\":\"Physical Interactions\",\"name\":\"Zhang-Zou-2011\",\"weight\":3.477339017869633E-4},{\"group\":\"Physical Interactions\",\"name\":\"Koch-Hermeking-2007\",\"weight\":0.001726306349945321},{\"group\":\"Co-expression\",\"name\":\"Rosenwald-Staudt-2001\",\"weight\":0.0040062559805084845},{\"group\":\"Physical Interactions\",\"name\":\"Roy-Parent-2013\",\"weight\":0.00100470185495143},{\"group\":\"Physical Interactions\",\"name\":\"Golebiowski-Hay-2009\",\"weight\":1.8816770548765483E-4},{\"group\":\"Predicted\",\"name\":\"I2D-IntAct-Fly2Human\",\"weight\":8.68739636726089E-4},{\"group\":\"Co-expression\",\"name\":\"Chen-Brown-2002\",\"weight\":0.005122794096786905},{\"group\":\"Physical Interactions\",\"name\":\"Katsogiannou-Rocchi-2014\",\"weight\":5.506815503168676E-4},{\"group\":\"Physical Interactions\",\"name\":\"Hegele-Stelzl-2012 B\",\"weight\":0.005505624402740487},{\"group\":\"Physical Interactions\",\"name\":\"Lu-Zhang-2013\",\"weight\":0.024295665433120908},{\"group\":\"Physical Interactions\",\"name\":\"Li-Chen-2015\",\"weight\":0.0030204585860130334},{\"group\":\"Co-expression\",\"name\":\"Wang-Cheung-2015\",\"weight\":0.005744595282236092},{\"group\":\"Predicted\",\"name\":\"I2D-IntAct-Rat2Human\",\"weight\":8.724763827150615E-5},{\"group\":\"Physical Interactions\",\"name\":\"Gloeckner-Ueffing-2007\",\"weight\":0.006154320121597311},{\"group\":\"Physical Interactions\",\"name\":\"Joshi-Cristea-2013\",\"weight\":0.0010131177715561978},{\"group\":\"Shared protein domains\",\"name\":\"PFAM\",\"weight\":0.0020533079348533777},{\"group\":\"Physical Interactions\",\"name\":\"Woods-Monteiro-2012\",\"weight\":0.0020596767781139234},{\"group\":\"Predicted\",\"name\":\"I2D-BioGRID-Mouse2Human\",\"weight\":0.0011958725876021752},{\"group\":\"Physical Interactions\",\"name\":\"Varjosalo-Superti-Furga-2013\",\"weight\":0.004891154010344498},{\"group\":\"Physical Interactions\",\"name\":\"Brehme-Superti-Furga-2009\",\"weight\":0.0058727469781128935},{\"group\":\"Physical Interactions\",\"name\":\"Oliviero-Cagney-2015\",\"weight\":0.002392981791283782},{\"group\":\"Predicted\",\"name\":\"I2D-IntAct-Mouse2Human\",\"weight\":0.003080305121185795},{\"group\":\"Physical Interactions\",\"name\":\"Singh-Moore-2012\",\"weight\":0.0412314390555817},{\"group\":\"Co-expression\",\"name\":\"Noble-Diehl-2008\",\"weight\":0.006500349372354878},{\"group\":\"Physical Interactions\",\"name\":\"IREF-MATRIXDB\",\"weight\":0.0032126305940940515},{\"group\":\"Physical Interactions\",\"name\":\"Li-Haura-2013\",\"weight\":0.002139641054946383},{\"group\":\"Physical Interactions\",\"name\":\"Hayes-Urbé-2012\",\"weight\":0.0010178425031305675},{\"group\":\"Physical Interactions\",\"name\":\"Narayan-Bennett-2012\",\"weight\":0.005337620092085274},{\"group\":\"Physical Interactions\",\"name\":\"Yatim-Benkirane-2012\",\"weight\":0.001242982830956866},{\"group\":\"Physical Interactions\",\"name\":\"Bett-Hay-2013\",\"weight\":0.007942506166960076},{\"group\":\"Physical Interactions\",\"name\":\"Nakayasu-Adkins-2013\",\"weight\":8.704902739321939E-4},{\"group\":\"Physical Interactions\",\"name\":\"Thompson-Luchansky-2014\",\"weight\":0.0012348121429847374},{\"group\":\"Physical Interactions\",\"name\":\"Wagner-Choudhary-2011\",\"weight\":0.0186386177878669},{\"group\":\"Physical Interactions\",\"name\":\"McCracken-Blencowe-2005\",\"weight\":0.012075703507418488},{\"group\":\"Pathway\",\"name\":\"NCI_NATURE\",\"weight\":0.005807392585771256},{\"group\":\"Physical Interactions\",\"name\":\"Xiao-Lefkowitz-2007\",\"weight\":0.0017104428200790203},{\"group\":\"Physical Interactions\",\"name\":\"Meek-Piwnica-Worms-2004\",\"weight\":9.603168546758797E-5},{\"group\":\"Physical Interactions\",\"name\":\"Rowbotham-Mermoud-2011\",\"weight\":0.004566730359471816},{\"group\":\"Physical Interactions\",\"name\":\"Jones-MacBeath-2006\",\"weight\":0.009310321557854688},{\"group\":\"Physical Interactions\",\"name\":\"Christianson-Kopito-2011\",\"weight\":7.421403087590016E-4}]",
+    "organism" : "H. sapiens",
+    "__Annotations" : [ ],
+    "annotations" : "[{\"name\":\"GO:0005758\",\"description\":\"mitochondrial intermembrane space\",\"qValue\":1.3927373490600418E-10,\"sample\":7,\"total\":38},{\"name\":\"GO:0031970\",\"description\":\"organelle envelope lumen\",\"qValue\":1.3927373490600418E-10,\"sample\":7,\"total\":40},{\"name\":\"GO:0006626\",\"description\":\"protein targeting to mitochondrion\",\"qValue\":4.2522602540101754E-10,\"sample\":7,\"total\":49},{\"name\":\"GO:0070585\",\"description\":\"protein localization to mitochondrion\",\"qValue\":4.2925623855344456E-10,\"sample\":7,\"total\":51},{\"name\":\"GO:0072655\",\"description\":\"establishment of protein localization to mitochondrion\",\"qValue\":6.376489314652423E-9,\"sample\":7,\"total\":76},{\"name\":\"GO:0006839\",\"description\":\"mitochondrial transport\",\"qValue\":6.207193947561769E-8,\"sample\":7,\"total\":107},{\"name\":\"GO:0007005\",\"description\":\"mitochondrion organization\",\"qValue\":9.932479165491752E-6,\"sample\":7,\"total\":225},{\"name\":\"GO:0006605\",\"description\":\"protein targeting\",\"qValue\":6.193569337199926E-5,\"sample\":7,\"total\":299},{\"name\":\"GO:0033202\",\"description\":\"DNA helicase complex\",\"qValue\":8.705230043796173E-4,\"sample\":3,\"total\":14},{\"name\":\"GO:0031011\",\"description\":\"Ino80 complex\",\"qValue\":8.705230043796173E-4,\"sample\":3,\"total\":14},{\"name\":\"GO:0007605\",\"description\":\"sensory perception of sound\",\"qValue\":0.0010265571741652148,\"sample\":4,\"total\":63},{\"name\":\"GO:0070603\",\"description\":\"SWI/SNF superfamily-type complex\",\"qValue\":0.0010265571741652148,\"sample\":4,\"total\":63},{\"name\":\"GO:0050954\",\"description\":\"sensory perception of mechanical stimulus\",\"qValue\":0.0010265571741652148,\"sample\":4,\"total\":63},{\"name\":\"GO:0097346\",\"description\":\"INO80-type complex\",\"qValue\":0.001938913220211076,\"sample\":3,\"total\":20},{\"name\":\"GO:0005743\",\"description\":\"mitochondrial inner membrane\",\"qValue\":0.003826422949786967,\"sample\":5,\"total\":208},{\"name\":\"GO:0019866\",\"description\":\"organelle inner membrane\",\"qValue\":0.004825558593550812,\"sample\":5,\"total\":221},{\"name\":\"GO:0031966\",\"description\":\"mitochondrial membrane\",\"qValue\":0.018148794503349594,\"sample\":5,\"total\":294}]",
+    "type" : "genemania",
+    "search_limit" : 20,
+    "shared_name" : "H. sapiens (1)",
+    "attribute_search_limit" : 20,
+    "combining_method" : "bp",
+    "name" : "H. sapiens (1)",
+    "SUID" : 80,
+    "selected" : true,
+    "data_version" : "2017-03-17"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "162",
+        "Ensembl_Protein_ID" : "ENSP00000486751",
+        "gene_name" : "IST1",
+        "shared_name" : "H__sapiens__1_-716183",
+        "score" : 0.003587923575746166,
+        "RefSeq_mRNA_ID" : "NM_014761",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "9798",
+        "Ensembl_Gene_ID" : "ENSG00000182149",
+        "log_score" : -5.630181634971697,
+        "name" : "H__sapiens__1_-716183",
+        "SUID" : 162,
+        "Synonym" : "KIAA0174",
+        "Uniprot_ID" : "P53990",
+        "RefSeq_Protein_ID" : "NP_055576",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -287.8594180020419,
+        "y" : -41.11224642666903
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "Ensembl_Protein_ID" : "ENSP00000442259",
+        "gene_name" : "PDYN",
+        "shared_name" : "H__sapiens__1_-703477",
+        "score" : 5.280517466758061E-4,
+        "RefSeq_mRNA_ID" : "NM_024411",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "5173",
+        "Ensembl_Gene_ID" : "ENSG00000101327",
+        "log_score" : -7.546316273992381,
+        "name" : "H__sapiens__1_-703477",
+        "SUID" : 159,
+        "Synonym" : "SCA23",
+        "Uniprot_ID" : "P01213",
+        "RefSeq_Protein_ID" : "NP_077722",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -184.74754056063563,
+        "y" : 182.80468472567472
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "Ensembl_Protein_ID" : "ENSP00000360164",
+        "annotations" : [ "GO:0070603" ],
+        "annotation_name" : [ "SWI/SNF superfamily-type complex" ],
+        "gene_name" : "SMARCA1",
+        "shared_name" : "H__sapiens__1_-703595",
+        "score" : 0.002102416152089559,
+        "RefSeq_mRNA_ID" : "NM_003069",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "6594",
+        "Ensembl_Gene_ID" : "ENSG00000102038",
+        "log_score" : -6.164668047012494,
+        "name" : "H__sapiens__1_-703595",
+        "SUID" : 151,
+        "Synonym" : "SWI",
+        "Uniprot_ID" : "P28370",
+        "RefSeq_Protein_ID" : "NP_003060",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 327.68992892178625,
+        "y" : -121.47357455166903
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "Ensembl_Protein_ID" : "ENSP00000475681",
+        "gene_name" : "ELL",
+        "shared_name" : "H__sapiens__1_-704136",
+        "score" : 5.242614397703571E-4,
+        "RefSeq_mRNA_ID" : "NM_006532",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "8178",
+        "Ensembl_Gene_ID" : "ENSG00000105656",
+        "log_score" : -7.553520067208389,
+        "name" : "H__sapiens__1_-704136",
+        "SUID" : 145,
+        "Synonym" : "PPP1R68",
+        "Uniprot_ID" : "P55199",
+        "RefSeq_Protein_ID" : "NP_006523",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 266.3189267245206,
+        "y" : -37.66839877041903
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "Ensembl_Protein_ID" : "ENSP00000399636",
+        "gene_name" : "EAF1",
+        "shared_name" : "H__sapiens__1_-709583",
+        "score" : 6.86163781048188E-4,
+        "RefSeq_mRNA_ID" : "NM_033083",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "85403",
+        "Ensembl_Gene_ID" : "ENSG00000144597",
+        "log_score" : -7.284394210850474,
+        "name" : "H__sapiens__1_-709583",
+        "SUID" : 143,
+        "Uniprot_ID" : "Q96JC9",
+        "RefSeq_Protein_ID" : "NP_149074",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 279.0377987948331,
+        "y" : 42.58373746004972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "Ensembl_Protein_ID" : "ENSP00000412265",
+        "annotations" : [ "GO:0033202", "GO:0031011", "GO:0097346", "GO:0070603" ],
+        "annotation_name" : [ "DNA helicase complex", "Ino80 complex", "INO80-type complex", "SWI/SNF superfamily-type complex" ],
+        "gene_name" : "UCHL5",
+        "shared_name" : "H__sapiens__1_-705599",
+        "score" : 8.175655438711349E-4,
+        "RefSeq_mRNA_ID" : "NM_015984",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "51377",
+        "Ensembl_Gene_ID" : "ENSG00000116750",
+        "log_score" : -7.109179482417633,
+        "name" : "H__sapiens__1_-705599",
+        "SUID" : 140,
+        "Synonym" : "UCH37",
+        "Uniprot_ID" : "Q9Y5K5",
+        "RefSeq_Protein_ID" : "NP_057068",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 116.30354586514562,
+        "y" : -169.29669466885653
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "Ensembl_Protein_ID" : "ENSP00000360268",
+        "annotations" : [ "GO:0019866", "GO:0031966", "GO:0005743" ],
+        "annotation_name" : [ "organelle inner membrane", "mitochondrial membrane", "mitochondrial inner membrane" ],
+        "gene_name" : "ALDH18A1",
+        "shared_name" : "H__sapiens__1_-701775",
+        "score" : 6.315556344795303E-4,
+        "RefSeq_mRNA_ID" : "NM_002860",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "5832",
+        "Ensembl_Gene_ID" : "ENSG00000059573",
+        "log_score" : -7.367324521115922,
+        "name" : "H__sapiens__1_-701775",
+        "SUID" : 128,
+        "Synonym" : "PYCS",
+        "Uniprot_ID" : "P54886",
+        "RefSeq_Protein_ID" : "NP_002851",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -148.94755276766688,
+        "y" : -93.72601595791903
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "Ensembl_Protein_ID" : "ENSP00000452091",
+        "annotations" : [ "GO:0050954", "GO:0019866", "GO:0031970", "GO:0006605", "GO:0031966", "GO:0070585", "GO:0007605", "GO:0005743", "GO:0072655", "GO:0007005", "GO:0005758", "GO:0006626", "GO:0006839" ],
+        "annotation_name" : [ "sensory perception of mechanical stimulus", "organelle inner membrane", "organelle envelope lumen", "protein targeting", "mitochondrial membrane", "protein localization to mitochondrion", "sensory perception of sound", "mitochondrial inner membrane", "establishment of protein localization to mitochondrion", "mitochondrion organization", "mitochondrial intermembrane space", "protein targeting to mitochondrion", "mitochondrial transport" ],
+        "gene_name" : "TIMM9",
+        "shared_name" : "H__sapiens__1_-703321",
+        "score" : 0.0013783169972158005,
+        "RefSeq_mRNA_ID" : "NM_012460",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "26520",
+        "Ensembl_Gene_ID" : "ENSG00000100575",
+        "log_score" : -6.5868920913252635,
+        "name" : "H__sapiens__1_-703321",
+        "SUID" : 125,
+        "Synonym" : "TIM9A",
+        "Uniprot_ID" : "Q9Y5J7",
+        "RefSeq_Protein_ID" : "NP_036592",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -43.84501370516688,
+        "y" : 60.72051724520597
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "Ensembl_Protein_ID" : "ENSP00000484685",
+        "annotations" : [ "GO:0033202", "GO:0031011", "GO:0097346", "GO:0070603" ],
+        "annotation_name" : [ "DNA helicase complex", "Ino80 complex", "INO80-type complex", "SWI/SNF superfamily-type complex" ],
+        "gene_name" : "TFPT",
+        "shared_name" : "H__sapiens__1_-704126",
+        "score" : 0.9460923479666464,
+        "RefSeq_mRNA_ID" : "NM_013342",
+        "node_type" : "query",
+        "Entrez_Gene_ID" : "29844",
+        "Ensembl_Gene_ID" : "ENSG00000278161",
+        "log_score" : -0.05541509527966416,
+        "name" : "H__sapiens__1_-704126",
+        "SUID" : 116,
+        "Synonym" : "INO80F",
+        "Uniprot_ID" : "P0C1Z6",
+        "RefSeq_Protein_ID" : "NP_037474",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 171.53444186123937,
+        "y" : -65.82556429776278
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "Ensembl_Protein_ID" : "ENSP00000419552",
+        "gene_name" : "EAF2",
+        "shared_name" : "H__sapiens__1_-709652",
+        "score" : 9.569377125036027E-4,
+        "RefSeq_mRNA_ID" : "NM_018456",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "55840",
+        "Ensembl_Gene_ID" : "ENSG00000145088",
+        "log_score" : -6.951772254832651,
+        "name" : "H__sapiens__1_-709652",
+        "SUID" : 113,
+        "Synonym" : "U19",
+        "Uniprot_ID" : "Q96CJ1",
+        "RefSeq_Protein_ID" : "NP_060926",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 200.11744967373937,
+        "y" : 8.768002596768468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "Ensembl_Protein_ID" : "ENSP00000467914",
+        "gene_name" : "ELOF1",
+        "shared_name" : "H__sapiens__1_-707200",
+        "score" : 0.0022631168980302707,
+        "RefSeq_mRNA_ID" : "NM_032377",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "84337",
+        "Ensembl_Gene_ID" : "ENSG00000130165",
+        "log_score" : -6.091012257442924,
+        "name" : "H__sapiens__1_-707200",
+        "SUID" : 111,
+        "Synonym" : "MGC4549",
+        "Uniprot_ID" : "P60002",
+        "RefSeq_Protein_ID" : "NP_115753",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -80.01383694735438,
+        "y" : -132.71356478604403
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "Ensembl_Protein_ID" : "ENSP00000361993",
+        "annotations" : [ "GO:0072655", "GO:0031970", "GO:0007005", "GO:0006605", "GO:0005758", "GO:0006626", "GO:0006839", "GO:0070585" ],
+        "annotation_name" : [ "establishment of protein localization to mitochondrion", "organelle envelope lumen", "mitochondrion organization", "protein targeting", "mitochondrial intermembrane space", "protein targeting to mitochondrion", "mitochondrial transport", "protein localization to mitochondrion" ],
+        "gene_name" : "TIMM8A",
+        "shared_name" : "H__sapiens__1_-706864",
+        "score" : 0.008250262650649043,
+        "RefSeq_mRNA_ID" : "NM_004085",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "1678",
+        "Ensembl_Gene_ID" : "ENSG00000126953",
+        "log_score" : -4.797510242700008,
+        "name" : "H__sapiens__1_-706864",
+        "SUID" : 107,
+        "Synonym" : "MTS",
+        "Uniprot_ID" : "O60220",
+        "RefSeq_Protein_ID" : "NP_004076",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -26.855938998135628,
+        "y" : 90.21831997958097
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "Ensembl_Protein_ID" : "ENSP00000436948",
+        "annotations" : [ "GO:0019866", "GO:0072655", "GO:0031970", "GO:0007005", "GO:0006605", "GO:0005758", "GO:0031966", "GO:0006626", "GO:0006839", "GO:0070585", "GO:0005743" ],
+        "annotation_name" : [ "organelle inner membrane", "establishment of protein localization to mitochondrion", "organelle envelope lumen", "mitochondrion organization", "protein targeting", "mitochondrial intermembrane space", "mitochondrial membrane", "protein targeting to mitochondrion", "mitochondrial transport", "protein localization to mitochondrion", "mitochondrial inner membrane" ],
+        "gene_name" : "TIMM10B",
+        "shared_name" : "H__sapiens__1_-707543",
+        "score" : 9.989597690740482E-4,
+        "RefSeq_mRNA_ID" : "NM_012192",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "26515",
+        "Ensembl_Gene_ID" : "ENSG00000132286",
+        "log_score" : -6.908796051323776,
+        "name" : "H__sapiens__1_-707543",
+        "SUID" : 105,
+        "Synonym" : "Tim9b",
+        "Uniprot_ID" : "Q9Y5J6",
+        "RefSeq_Protein_ID" : "NP_036324",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -70.52549466219813,
+        "y" : 140.19897183504972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "Ensembl_Protein_ID" : "ENSP00000464522",
+        "annotations" : [ "GO:0019866", "GO:0072655", "GO:0031970", "GO:0007005", "GO:0006605", "GO:0005758", "GO:0031966", "GO:0006626", "GO:0006839", "GO:0070585", "GO:0005743" ],
+        "annotation_name" : [ "organelle inner membrane", "establishment of protein localization to mitochondrion", "organelle envelope lumen", "mitochondrion organization", "protein targeting", "mitochondrial intermembrane space", "mitochondrial membrane", "protein targeting to mitochondrion", "mitochondrial transport", "protein localization to mitochondrion", "mitochondrial inner membrane" ],
+        "gene_name" : "TIMM23",
+        "shared_name" : "H__sapiens__1_-751684",
+        "score" : 6.469141866894956E-4,
+        "RefSeq_mRNA_ID" : "NM_006327",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "100287932",
+        "Ensembl_Gene_ID" : "ENSG00000265354",
+        "log_score" : -7.34329690488815,
+        "name" : "H__sapiens__1_-751684",
+        "SUID" : 104,
+        "Synonym" : "TIM23",
+        "Uniprot_ID" : "O14925",
+        "RefSeq_Protein_ID" : "NP_006318",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -187.05112942782313,
+        "y" : 115.87774380770597
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "Ensembl_Protein_ID" : "ENSP00000464881",
+        "annotations" : [ "GO:0050954", "GO:0072655", "GO:0031970", "GO:0007005", "GO:0006605", "GO:0005758", "GO:0006626", "GO:0006839", "GO:0070585", "GO:0007605" ],
+        "annotation_name" : [ "sensory perception of mechanical stimulus", "establishment of protein localization to mitochondrion", "organelle envelope lumen", "mitochondrion organization", "protein targeting", "mitochondrial intermembrane space", "protein targeting to mitochondrion", "mitochondrial transport", "protein localization to mitochondrion", "sensory perception of sound" ],
+        "gene_name" : "TIMM13",
+        "shared_name" : "H__sapiens__1_-703093",
+        "score" : 0.8977377542255042,
+        "RefSeq_mRNA_ID" : "NM_012458",
+        "node_type" : "query",
+        "Entrez_Gene_ID" : "26517",
+        "Ensembl_Gene_ID" : "ENSG00000099800",
+        "log_score" : -0.10787728648637751,
+        "name" : "H__sapiens__1_-703093",
+        "SUID" : 102,
+        "Synonym" : "TIMM13B",
+        "Uniprot_ID" : "Q9Y5L4",
+        "RefSeq_Protein_ID" : "NP_036590",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -81.72483548251063,
+        "y" : 20.99792203036222
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "Ensembl_Protein_ID" : "ENSP00000438455",
+        "annotations" : [ "GO:0050954", "GO:0072655", "GO:0031970", "GO:0007005", "GO:0006605", "GO:0005758", "GO:0006626", "GO:0006839", "GO:0070585", "GO:0007605" ],
+        "annotation_name" : [ "sensory perception of mechanical stimulus", "establishment of protein localization to mitochondrion", "organelle envelope lumen", "mitochondrion organization", "protein targeting", "mitochondrial intermembrane space", "protein targeting to mitochondrion", "mitochondrial transport", "protein localization to mitochondrion", "sensory perception of sound" ],
+        "gene_name" : "TIMM8B",
+        "shared_name" : "H__sapiens__1_-710331",
+        "score" : 0.004361810213583117,
+        "RefSeq_mRNA_ID" : "NM_012459",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "26521",
+        "Ensembl_Gene_ID" : "ENSG00000150779",
+        "log_score" : -5.434868121185669,
+        "name" : "H__sapiens__1_-710331",
+        "SUID" : 101,
+        "Synonym" : "TIM8B",
+        "Uniprot_ID" : "Q9Y5J9",
+        "RefSeq_Protein_ID" : "NP_036591",
+        "selected" : true
+      },
+      "position" : {
+        "x" : -101.54331692782313,
+        "y" : 78.13213833895597
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "99",
+        "Ensembl_Protein_ID" : "ENSP00000429654",
+        "gene_name" : "WIPI2",
+        "shared_name" : "H__sapiens__1_-711154",
+        "score" : 6.79985770598468E-4,
+        "RefSeq_mRNA_ID" : "NM_016003",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "26100",
+        "Ensembl_Gene_ID" : "ENSG00000157954",
+        "log_score" : -7.293438685603554,
+        "name" : "H__sapiens__1_-711154",
+        "SUID" : 99,
+        "Synonym" : "FLJ42984",
+        "Uniprot_ID" : "Q9Y4P8",
+        "RefSeq_Protein_ID" : "NP_057087",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -39.12125882235438,
+        "y" : -104.48334017666903
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "Ensembl_Protein_ID" : "ENSP00000484505",
+        "gene_name" : "PRMT1",
+        "shared_name" : "H__sapiens__1_-706805",
+        "score" : 0.0027348479849400587,
+        "RefSeq_mRNA_ID" : "NM_198318",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "3276",
+        "Ensembl_Gene_ID" : "ENSG00000126457",
+        "log_score" : -5.901679426027645,
+        "name" : "H__sapiens__1_-706805",
+        "SUID" : 96,
+        "Synonym" : "HRMT1L2",
+        "Uniprot_ID" : "Q99873",
+        "RefSeq_Protein_ID" : "NP_938074",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -14.611371127041878,
+        "y" : -10.137942227450282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "Ensembl_Protein_ID" : "ENSP00000416962",
+        "gene_name" : "CPNE1",
+        "shared_name" : "H__sapiens__1_-723874",
+        "score" : 5.112749990247023E-4,
+        "RefSeq_mRNA_ID" : "NM_152928",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "8904",
+        "Ensembl_Gene_ID" : "ENSG00000214078",
+        "log_score" : -7.578602953954895,
+        "name" : "H__sapiens__1_-723874",
+        "SUID" : 95,
+        "Uniprot_ID" : "Q99829",
+        "RefSeq_Protein_ID" : "NP_690905",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -150.74406155672938,
+        "y" : -17.86261263760653
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "Ensembl_Protein_ID" : "ENSP00000465582",
+        "gene_name" : "TUBG1",
+        "shared_name" : "H__sapiens__1_-707436",
+        "score" : 5.504035705856114E-4,
+        "RefSeq_mRNA_ID" : "NM_001070",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "7283",
+        "Ensembl_Gene_ID" : "ENSG00000131462",
+        "log_score" : -7.504858784110348,
+        "name" : "H__sapiens__1_-707436",
+        "SUID" : 93,
+        "Synonym" : "TUBGCP1",
+        "Uniprot_ID" : "P23258",
+        "RefSeq_Protein_ID" : "NP_001061",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 42.56434908780187,
+        "y" : 50.82983121004972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "Ensembl_Protein_ID" : "ENSP00000435678",
+        "annotations" : [ "GO:0050954", "GO:0019866", "GO:0031970", "GO:0006605", "GO:0031966", "GO:0070585", "GO:0007605", "GO:0005743", "GO:0072655", "GO:0007005", "GO:0005758", "GO:0006626", "GO:0006839" ],
+        "annotation_name" : [ "sensory perception of mechanical stimulus", "organelle inner membrane", "organelle envelope lumen", "protein targeting", "mitochondrial membrane", "protein localization to mitochondrion", "sensory perception of sound", "mitochondrial inner membrane", "establishment of protein localization to mitochondrion", "mitochondrion organization", "mitochondrial intermembrane space", "protein targeting to mitochondrion", "mitochondrial transport" ],
+        "gene_name" : "TIMM10",
+        "shared_name" : "H__sapiens__1_-707948",
+        "score" : 0.0017299241318760594,
+        "RefSeq_mRNA_ID" : "NM_012456",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "26519",
+        "Ensembl_Gene_ID" : "ENSG00000134809",
+        "log_score" : -6.359677725840984,
+        "name" : "H__sapiens__1_-707948",
+        "SUID" : 91,
+        "Synonym" : "TIM10A",
+        "Uniprot_ID" : "P62072",
+        "RefSeq_Protein_ID" : "NP_036588",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -7.552716341885628,
+        "y" : 57.19439419833097
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "Ensembl_Protein_ID" : "ENSP00000486242",
+        "annotations" : [ "GO:0033202", "GO:0031011", "GO:0097346", "GO:0070603" ],
+        "annotation_name" : [ "DNA helicase complex", "Ino80 complex", "INO80-type complex", "SWI/SNF superfamily-type complex" ],
+        "gene_name" : "RUVBL2",
+        "shared_name" : "H__sapiens__1_-716440",
+        "score" : 0.0010722617080125008,
+        "RefSeq_mRNA_ID" : "NM_006666",
+        "node_type" : "result",
+        "Entrez_Gene_ID" : "10856",
+        "Ensembl_Gene_ID" : "ENSG00000183207",
+        "log_score" : -6.837985115519879,
+        "name" : "H__sapiens__1_-716440",
+        "SUID" : 90,
+        "Synonym" : "TIP49b",
+        "Uniprot_ID" : "Q9Y230",
+        "RefSeq_Protein_ID" : "NP_006657",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 21.577044400301872,
+        "y" : -54.02630892666903
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "163",
+        "source" : "162",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-716183|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.00453518537371776,
+        "raw_weights" : [ 0.8883148431777954 ],
+        "name" : "H__sapiens__1_-716183|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 163,
+        "networks" : [ "Kristensen-Foster-2012" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "159",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-703477|H__sapiens__1_-710331|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 6.445391867463085E-4,
+        "raw_weights" : [ 0.4650421738624573 ],
+        "name" : "H__sapiens__1_-703477|H__sapiens__1_-710331|Physical Interactions",
+        "SUID" : 161,
+        "networks" : [ "Huttlin-Gygi-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "159",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-703477|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 6.445391867463085E-4,
+        "raw_weights" : [ 0.4650421738624573 ],
+        "name" : "H__sapiens__1_-703477|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 160,
+        "networks" : [ "Huttlin-Gygi-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "151",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-703595|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0024742196266161103,
+        "raw_weights" : [ 0.63636714220047 ],
+        "name" : "H__sapiens__1_-703595|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 152,
+        "networks" : [ "Havugimana-Emili-2012" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "145",
+        "target" : "143",
+        "shared_name" : "H__sapiens__1_-704136|H__sapiens__1_-709583|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 9.966455712218903E-4,
+        "raw_weights" : [ 0.292437344789505 ],
+        "name" : "H__sapiens__1_-704136|H__sapiens__1_-709583|Predicted",
+        "SUID" : 180,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "145",
+        "target" : "113",
+        "shared_name" : "H__sapiens__1_-704136|H__sapiens__1_-709652|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0021320973752457072,
+        "raw_weights" : [ 0.625603437423706 ],
+        "name" : "H__sapiens__1_-704136|H__sapiens__1_-709652|Predicted",
+        "SUID" : 179,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "145",
+        "target" : "143",
+        "shared_name" : "H__sapiens__1_-704136|H__sapiens__1_-709583|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.9044921335341204E-4,
+        "raw_weights" : [ 0.070978082716465, 0.05343422666192055, 0.23848389089107513 ],
+        "name" : "H__sapiens__1_-704136|H__sapiens__1_-709583|Physical Interactions",
+        "SUID" : 148,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "Huttlin-Gygi-2015", "IREF-HPRD" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "145",
+        "target" : "113",
+        "shared_name" : "H__sapiens__1_-704136|H__sapiens__1_-709652|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 2.322005083361205E-4,
+        "raw_weights" : [ 0.08653827756643295, 0.25179487466812134 ],
+        "name" : "H__sapiens__1_-704136|H__sapiens__1_-709652|Physical Interactions",
+        "SUID" : 147,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "IREF-HPRD" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "145",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-704136|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 3.642191428313237E-4,
+        "raw_weights" : [ 0.08381971716880798, 0.14440174400806427, 0.3258401155471802 ],
+        "name" : "H__sapiens__1_-704136|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 146,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "IREF-HPRD", "IREF-INTACT" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "143",
+        "target" : "113",
+        "shared_name" : "H__sapiens__1_-709583|H__sapiens__1_-709652|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.003826669631045472,
+        "raw_weights" : [ 1.0, 1.0 ],
+        "name" : "H__sapiens__1_-709583|H__sapiens__1_-709652|Shared protein domains",
+        "SUID" : 196,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "143",
+        "target" : "113",
+        "shared_name" : "H__sapiens__1_-709583|H__sapiens__1_-709652|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.0336593799911138E-4,
+        "raw_weights" : [ 0.07457967102527618 ],
+        "name" : "H__sapiens__1_-709583|H__sapiens__1_-709652|Physical Interactions",
+        "SUID" : 158,
+        "networks" : [ "Huttlin-Gygi-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "143",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-709583|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.359496987062836E-4,
+        "raw_weights" : [ 0.19974187016487122, 0.2018951177597046, 0.18210352957248688 ],
+        "name" : "H__sapiens__1_-709583|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 144,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "IREF-HPRD", "IREF-INTACT" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "140",
+        "target" : "90",
+        "shared_name" : "H__sapiens__1_-705599|H__sapiens__1_-716440|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.001093493447797242,
+        "raw_weights" : [ 0.0036437821108847857, 0.05450206622481346, 0.16724219918251038 ],
+        "name" : "H__sapiens__1_-705599|H__sapiens__1_-716440|Physical Interactions",
+        "SUID" : 142,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "Hein-Mann-2015", "Jeronimo-Coulombe-2007" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "140",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-705599|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 6.16310928496467E-4,
+        "raw_weights" : [ 0.017970534041523933, 0.07865539193153381, 0.16929210722446442, 0.23301106691360474 ],
+        "name" : "H__sapiens__1_-705599|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 141,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "Huttlin-Gygi-2015", "IREF-INTACT", "Sowa-Harper-2009" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "128",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-701775|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.836932372061855E-4,
+        "raw_weights" : [ 0.201565220952034 ],
+        "name" : "H__sapiens__1_-701775|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 155,
+        "networks" : [ "Havugimana-Emili-2012" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "128",
+        "target" : "125",
+        "shared_name" : "H__sapiens__1_-701775|H__sapiens__1_-703321|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.998252950797347E-5,
+        "raw_weights" : [ 0.007229782175272703 ],
+        "name" : "H__sapiens__1_-701775|H__sapiens__1_-703321|Co-localization",
+        "SUID" : 137,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "128",
+        "target" : "111",
+        "shared_name" : "H__sapiens__1_-701775|H__sapiens__1_-707200|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.118024615057258E-4,
+        "raw_weights" : [ 0.018854809924960136 ],
+        "name" : "H__sapiens__1_-701775|H__sapiens__1_-707200|Co-expression",
+        "SUID" : 129,
+        "networks" : [ "Perou-Botstein-2000" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "125",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Shared protein domains",
+        "SUID" : 190,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "125",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Shared protein domains",
+        "SUID" : 189,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "125",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-706864|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-706864|Shared protein domains",
+        "SUID" : 188,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "125",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Shared protein domains",
+        "SUID" : 187,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "125",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0038172473832675424,
+        "raw_weights" : [ 1.0, 0.7653668522834778, 1.0, 0.26743918657302856 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Predicted",
+        "SUID" : 170,
+        "networks" : [ "I2D-BIND-Yeast2Human", "I2D-BioGRID-Yeast2Human", "I2D-Yu-Vidal-2008-GoldStd-Yeast2Human", "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "125",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.344002768914554E-4,
+        "raw_weights" : [ 0.1499844789505005 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Physical Interactions",
+        "SUID" : 168,
+        "networks" : [ "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "125",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-706864|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 6.71658480792415E-4,
+        "raw_weights" : [ 0.1885072886943817 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-706864|Physical Interactions",
+        "SUID" : 167,
+        "networks" : [ "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "125",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.1833339764176425E-4,
+        "raw_weights" : [ 0.11740921437740326 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 166,
+        "networks" : [ "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "125",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0016396379983291826,
+        "raw_weights" : [ 0.07716850936412811, 0.8133944869041443, 1.0, 0.22838489711284637 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-707948|Physical Interactions",
+        "SUID" : 153,
+        "networks" : [ "Havugimana-Emili-2012", "IREF-INTACT", "IREF-PUBMED", "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "125",
+        "target" : "96",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-706805|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.408203028510917E-5,
+        "raw_weights" : [ 0.003984663635492325 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-706805|Co-localization",
+        "SUID" : 132,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "125",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.933966627022299E-5,
+        "raw_weights" : [ 0.004459911957383156 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-703093|Co-localization",
+        "SUID" : 131,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "125",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.02192897617164E-5,
+        "raw_weights" : [ 0.012011835351586342 ],
+        "name" : "H__sapiens__1_-703321|H__sapiens__1_-710331|Co-expression",
+        "SUID" : 126,
+        "networks" : [ "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "113",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-709652|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 6.534434092964303E-4,
+        "raw_weights" : [ 0.24353033304214478, 0.21316389739513397, 0.3435567021369934 ],
+        "name" : "H__sapiens__1_-709652|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 139,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "IREF-HPRD", "IREF-INTACT" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "113",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-709652|H__sapiens__1_-707948|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.28885693983539E-4,
+        "raw_weights" : [ 0.015019637532532215 ],
+        "name" : "H__sapiens__1_-709652|H__sapiens__1_-707948|Co-expression",
+        "SUID" : 114,
+        "networks" : [ "Mallon-McKay-2013" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "111",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707200|H__sapiens__1_-703093|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0026725319410866692,
+        "raw_weights" : [ 1.0 ],
+        "name" : "H__sapiens__1_-707200|H__sapiens__1_-703093|Predicted",
+        "SUID" : 174,
+        "networks" : [ "Stuart-Kim-2003" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "111",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707200|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 2.2330745578520206E-5,
+        "raw_weights" : [ 0.004359094891697168 ],
+        "name" : "H__sapiens__1_-707200|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 122,
+        "networks" : [ "Chen-Brown-2002" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "107",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Shared protein domains",
+        "SUID" : 181,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "107",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.003177348449941226,
+        "raw_weights" : [ 0.6370656490325928, 0.4925857186317444 ],
+        "name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Predicted",
+        "SUID" : 171,
+        "networks" : [ "I2D-BioGRID-Yeast2Human", "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "107",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.002270507380106957,
+        "raw_weights" : [ 0.8461902141571045, 0.5018293261528015, 0.8595324754714966, 0.24075235426425934, 0.2029501050710678 ],
+        "name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 138,
+        "networks" : [ "BIOGRID-SMALL-SCALE-STUDIES", "Ewing-Figeys-2007", "IREF-HPRD", "IREF-INTACT", "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "107",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 9.75879065316156E-5,
+        "raw_weights" : [ 0.007587007712572813, 0.014183727093040943 ],
+        "name" : "H__sapiens__1_-706864|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 108,
+        "networks" : [ "Mallon-McKay-2013", "Innocenti-Brown-2011" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "105",
+        "target" : "125",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-703321|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-703321|Shared protein domains",
+        "SUID" : 195,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "105",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-707948|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-707948|Shared protein domains",
+        "SUID" : 194,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "105",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-710331|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-710331|Shared protein domains",
+        "SUID" : 193,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "105",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-706864|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-706864|Shared protein domains",
+        "SUID" : 192,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "105",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-703093|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-703093|Shared protein domains",
+        "SUID" : 191,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "105",
+        "target" : "125",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-703321|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.001189126059495556,
+        "raw_weights" : [ 0.3489152789115906 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-703321|Predicted",
+        "SUID" : 178,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "105",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-707543|H__sapiens__1_-707948|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 9.11450215296714E-4,
+        "raw_weights" : [ 0.26743918657302856 ],
+        "name" : "H__sapiens__1_-707543|H__sapiens__1_-707948|Predicted",
+        "SUID" : 177,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "104",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-751684|H__sapiens__1_-706864|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 9.795126541424436E-4,
+        "raw_weights" : [ 0.19639453291893005 ],
+        "name" : "H__sapiens__1_-751684|H__sapiens__1_-706864|Predicted",
+        "SUID" : 173,
+        "networks" : [ "I2D-BioGRID-Yeast2Human" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "104",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-751684|H__sapiens__1_-703093|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.542634803202284E-4,
+        "raw_weights" : [ 0.1512315571308136 ],
+        "name" : "H__sapiens__1_-751684|H__sapiens__1_-703093|Predicted",
+        "SUID" : 172,
+        "networks" : [ "I2D-BioGRID-Yeast2Human" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "104",
+        "target" : "105",
+        "shared_name" : "H__sapiens__1_-751684|H__sapiens__1_-707543|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.262026723479157E-5,
+        "raw_weights" : [ 0.008094990625977516 ],
+        "name" : "H__sapiens__1_-751684|H__sapiens__1_-707543|Co-expression",
+        "SUID" : 106,
+        "networks" : [ "Noble-Diehl-2008" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "101",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-710331|H__sapiens__1_-706864|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-710331|H__sapiens__1_-706864|Shared protein domains",
+        "SUID" : 183,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "101",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Shared protein domains",
+        "SUID" : 182,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "101",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.002608420221560369,
+        "raw_weights" : [ 0.7653668522834778 ],
+        "name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Predicted",
+        "SUID" : 175,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "101",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.753442545630438E-4,
+        "raw_weights" : [ 0.5018293261528015, 0.25900885462760925, 0.1614757925271988 ],
+        "name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 149,
+        "networks" : [ "Ewing-Figeys-2007", "IREF-INTACT", "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "101",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.467928225888577E-5,
+        "raw_weights" : [ 0.011488502845168114, 0.005003988742828369 ],
+        "name" : "H__sapiens__1_-710331|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 103,
+        "networks" : [ "Noble-Diehl-2008", "Wang-Cheung-2015" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "99",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-711154|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.247244065517118E-4,
+        "raw_weights" : [ 0.21211840212345123 ],
+        "name" : "H__sapiens__1_-711154|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 154,
+        "networks" : [ "Havugimana-Emili-2012" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "99",
+        "target" : "90",
+        "shared_name" : "H__sapiens__1_-711154|H__sapiens__1_-716440|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.5472845176141904E-4,
+        "raw_weights" : [ 0.013986216858029366 ],
+        "name" : "H__sapiens__1_-711154|H__sapiens__1_-716440|Co-localization",
+        "SUID" : 136,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "99",
+        "target" : "125",
+        "shared_name" : "H__sapiens__1_-711154|H__sapiens__1_-703321|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.690692163712552E-5,
+        "raw_weights" : [ 0.007855691947042942 ],
+        "name" : "H__sapiens__1_-711154|H__sapiens__1_-703321|Co-localization",
+        "SUID" : 135,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "99",
+        "target" : "111",
+        "shared_name" : "H__sapiens__1_-711154|H__sapiens__1_-707200|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 2.2050920591640968E-4,
+        "raw_weights" : [ 0.019932271912693977 ],
+        "name" : "H__sapiens__1_-711154|H__sapiens__1_-707200|Co-localization",
+        "SUID" : 134,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "99",
+        "target" : "90",
+        "shared_name" : "H__sapiens__1_-711154|H__sapiens__1_-716440|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.73507401621942E-5,
+        "raw_weights" : [ 0.010878099128603935 ],
+        "name" : "H__sapiens__1_-711154|H__sapiens__1_-716440|Co-expression",
+        "SUID" : 100,
+        "networks" : [ "Burington-Shaughnessy-2008" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "96",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706805|H__sapiens__1_-703093|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0030087138341129424,
+        "raw_weights" : [ 0.5384098291397095, 0.7962251901626587 ],
+        "name" : "H__sapiens__1_-706805|H__sapiens__1_-703093|Predicted",
+        "SUID" : 169,
+        "networks" : [ "I2D-BIND-Yeast2Human", "I2D-vonMering-Bork-2002-Low-Yeast2Human" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "96",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-706805|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.297720522793336E-5,
+        "raw_weights" : [ 0.009062374010682106 ],
+        "name" : "H__sapiens__1_-706805|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 124,
+        "networks" : [ "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "96",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-706805|H__sapiens__1_-704126|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.469508492257768E-5,
+        "raw_weights" : [ 0.009540185332298279 ],
+        "name" : "H__sapiens__1_-706805|H__sapiens__1_-704126|Co-expression",
+        "SUID" : 117,
+        "networks" : [ "Dobbin-Giordano-2005" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "95",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-723874|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.911136189663984E-4,
+        "raw_weights" : [ 0.15203391015529633 ],
+        "name" : "H__sapiens__1_-723874|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 156,
+        "networks" : [ "Havugimana-Emili-2012" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "95",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-723874|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 3.322793596747082E-5,
+        "raw_weights" : [ 0.006486291531473398 ],
+        "name" : "H__sapiens__1_-723874|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 123,
+        "networks" : [ "Chen-Brown-2002" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "source" : "95",
+        "target" : "90",
+        "shared_name" : "H__sapiens__1_-723874|H__sapiens__1_-716440|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.2764153502296382E-4,
+        "raw_weights" : [ 0.013441556133329868 ],
+        "name" : "H__sapiens__1_-723874|H__sapiens__1_-716440|Co-expression",
+        "SUID" : 119,
+        "networks" : [ "Wang-Maris-2006" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "95",
+        "target" : "96",
+        "shared_name" : "H__sapiens__1_-723874|H__sapiens__1_-706805|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 5.318002576777382E-5,
+        "raw_weights" : [ 0.004972277674823999, 0.008968490175902843 ],
+        "name" : "H__sapiens__1_-723874|H__sapiens__1_-706805|Co-expression",
+        "SUID" : 97,
+        "networks" : [ "Ramaswamy-Golub-2001", "Perou-Botstein-2000" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "93",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707436|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.481238256818531E-4,
+        "raw_weights" : [ 0.12357056885957718, 0.0071032349951565266 ],
+        "name" : "H__sapiens__1_-707436|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 150,
+        "networks" : [ "Fogeron-Lange-2013", "Hein-Mann-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "93",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-707436|H__sapiens__1_-710331|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.2071325677302365E-5,
+        "raw_weights" : [ 0.0021013361401855946 ],
+        "name" : "H__sapiens__1_-707436|H__sapiens__1_-710331|Co-expression",
+        "SUID" : 121,
+        "networks" : [ "Wang-Cheung-2015" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "93",
+        "target" : "96",
+        "shared_name" : "H__sapiens__1_-707436|H__sapiens__1_-706805|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.919023835416082E-5,
+        "raw_weights" : [ 0.005651319399476051, 0.008295636624097824 ],
+        "name" : "H__sapiens__1_-707436|H__sapiens__1_-706805|Co-expression",
+        "SUID" : 118,
+        "networks" : [ "Dobbin-Giordano-2005", "Perou-Botstein-2000" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "source" : "93",
+        "target" : "90",
+        "shared_name" : "H__sapiens__1_-707436|H__sapiens__1_-716440|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.910832923409203E-5,
+        "raw_weights" : [ 0.005722817499190569, 0.004812583792954683, 0.004148825537413359, 0.004135818220674992 ],
+        "name" : "H__sapiens__1_-707436|H__sapiens__1_-716440|Co-expression",
+        "SUID" : 115,
+        "networks" : [ "Mallon-McKay-2013", "Rieger-Chu-2004", "Smirnov-Cheung-2009", "Innocenti-Brown-2011" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "source" : "93",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-707436|H__sapiens__1_-707948|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.5675665631468264E-4,
+        "raw_weights" : [ 0.015347892418503761 ],
+        "name" : "H__sapiens__1_-707436|H__sapiens__1_-707948|Co-expression",
+        "SUID" : 94,
+        "networks" : [ "Ramaswamy-Golub-2001" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "91",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-710331|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-710331|Shared protein domains",
+        "SUID" : 186,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Shared protein domains",
+        "SUID" : 185,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "91",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-703093|Shared protein domains",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.653339376134585E-4,
+        "raw_weights" : [ 0.20000000298023224, 0.20000000298023224 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-703093|Shared protein domains",
+        "SUID" : 184,
+        "networks" : [ "INTERPRO", "PFAM" ],
+        "selected" : false,
+        "data_type" : "Shared protein domains"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Predicted",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.0011809802849474232,
+        "raw_weights" : [ 0.3465251326560974 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Predicted",
+        "SUID" : 176,
+        "networks" : [ "Wu-Stein-2010" ],
+        "selected" : false,
+        "data_type" : "Predicted"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.001406613628754547,
+        "raw_weights" : [ 0.39477938413619995 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Physical Interactions",
+        "SUID" : 165,
+        "networks" : [ "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "91",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-703093|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.760902844077831E-4,
+        "raw_weights" : [ 0.2458830028772354 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-703093|Physical Interactions",
+        "SUID" : 164,
+        "networks" : [ "Wan-Emili-2015" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 7.358821387621732E-5,
+        "raw_weights" : [ 0.006651787087321281 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Co-localization",
+        "SUID" : 130,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "91",
+        "target" : "96",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706805|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 3.3953392693630724E-5,
+        "raw_weights" : [ 0.005910493433475494 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706805|Co-expression",
+        "SUID" : 120,
+        "networks" : [ "Wang-Cheung-2015" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "91",
+        "target" : "101",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-710331|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.187279852019515E-5,
+        "raw_weights" : [ 0.009541010484099388, 0.008879680186510086 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-710331|Co-expression",
+        "SUID" : 110,
+        "networks" : [ "Mallon-McKay-2013", "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "91",
+        "target" : "107",
+        "shared_name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 8.737270193121262E-5,
+        "raw_weights" : [ 0.01016782596707344, 0.014946128241717815 ],
+        "name" : "H__sapiens__1_-707948|H__sapiens__1_-706864|Co-expression",
+        "SUID" : 109,
+        "networks" : [ "Mallon-McKay-2013", "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "90",
+        "target" : "116",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-704126|Physical Interactions",
+        "highlight" : 1,
+        "normalized_max_weight" : 0.001093493447797242,
+        "raw_weights" : [ 0.09582535177469254, 0.16724219918251038 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-704126|Physical Interactions",
+        "SUID" : 157,
+        "networks" : [ "Hein-Mann-2015", "Jeronimo-Coulombe-2007" ],
+        "selected" : false,
+        "data_type" : "Physical Interactions"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "90",
+        "target" : "111",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-707200|Co-localization",
+        "highlight" : 1,
+        "normalized_max_weight" : 9.826721681545495E-5,
+        "raw_weights" : [ 0.008882571943104267 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-707200|Co-localization",
+        "SUID" : 133,
+        "networks" : [ "Johnson-Shoemaker-2003" ],
+        "selected" : false,
+        "data_type" : "Co-localization"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "90",
+        "target" : "102",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-703093|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 3.247498896639002E-5,
+        "raw_weights" : [ 0.005555228795856237 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-703093|Co-expression",
+        "SUID" : 127,
+        "networks" : [ "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "source" : "90",
+        "target" : "111",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-707200|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 4.060598168733392E-5,
+        "raw_weights" : [ 0.004732000175863504 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-707200|Co-expression",
+        "SUID" : 112,
+        "networks" : [ "Mallon-McKay-2013" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "90",
+        "target" : "96",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-706805|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.4294751303940584E-4,
+        "raw_weights" : [ 0.017801763489842415, 0.005002719350159168, 0.002318396233022213, 0.0024606219958513975, 0.004121747799217701 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-706805|Co-expression",
+        "SUID" : 98,
+        "networks" : [ "Burington-Shaughnessy-2008", "Wang-Maris-2006", "Wang-Cheung-2015", "Rieger-Chu-2004", "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "source" : "90",
+        "target" : "91",
+        "shared_name" : "H__sapiens__1_-716440|H__sapiens__1_-707948|Co-expression",
+        "highlight" : 1,
+        "normalized_max_weight" : 1.2858929553886576E-4,
+        "raw_weights" : [ 0.0184909887611866, 0.004592199344187975 ],
+        "name" : "H__sapiens__1_-716440|H__sapiens__1_-707948|Co-expression",
+        "SUID" : 92,
+        "networks" : [ "Bahr-Bowler-2013", "Smirnov-Cheung-2009" ],
+        "selected" : false,
+        "data_type" : "Co-expression"
+      },
+      "selected" : false
+    } ]
+  }
+}
